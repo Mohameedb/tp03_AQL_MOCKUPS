@@ -1,4 +1,4 @@
-package org.example;
+package EX02;
 
 
 public class ServiceException extends Exception{
